@@ -17,7 +17,7 @@
 
 ## Descrição
 
-Bem-vindo ao meu projeto! Esta é uma aplicação da tradiçcão PokeAPI, onde serve para iniciantes nessa carreira possa treinar o consumo de APIs e nada melhor do que se divertir nesses queridos Pokemons para deixar uma página bem atrativa aos olhos de quem vê.
+Bem-vindo ao meu projeto! Esta é uma aplicação da tradicional PokeAPI, onde serve para que iniciantes nessa carreira possa treinar o consumo de APIs e nada melhor do que se divertir nesses queridos Pokemons para deixar uma página bem atrativa aos olhos de quem vê.
 ## Contribuir
 
 Todas as contribuições são bem-vindas! Aqui estão algumas maneiras de começar:
